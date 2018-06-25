@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/0-Splash.unity
+    guid: ab63fc8f78a9820478ad80914b369513
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/1-About.unity
+    guid: 5732ccfaa17546c428bcec8bef9a2201
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/2-Loading.unity
+    guid: b6f4d674428d3dd4693e780937d5c768
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/3-GroundPlane.unity
+    guid: 4bd06d364987d4171b2da2c424b2c057

@@ -1,0 +1,8 @@
+/Temp
+*.apk
+/Library
+/.vs
+/obj
+*.sln
+/QCAR
+QCAR/somedata16

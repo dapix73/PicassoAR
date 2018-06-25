@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 26a41eb66adc3b14883aa2da8932c994
+timeCreated: 1529422656
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brown walls
+    100004: compound wall 001
+    100006: compound wall 002
+    100008: compound wall 02
+    100010: doors
+    100012: floor
+    100014: gate 001
+    100016: gate 002
+    100018: grey massing
+    100020: Line2275
+    100022: Line2276
+    100024: Railings
+    100026: Rectangle14719
+    100028: wall cw
+    100030: wall cw001
+    100032: wall x1
+    100034: white walls
+    100036: windows 02
+    100038: winows 01
+    400000: //RootNode
+    400002: brown walls
+    400004: compound wall 001
+    400006: compound wall 002
+    400008: compound wall 02
+    400010: doors
+    400012: floor
+    400014: gate 001
+    400016: gate 002
+    400018: grey massing
+    400020: Line2275
+    400022: Line2276
+    400024: Railings
+    400026: Rectangle14719
+    400028: wall cw
+    400030: wall cw001
+    400032: wall x1
+    400034: white walls
+    400036: windows 02
+    400038: winows 01
+    2100000: 'windows Slot #5'
+    2100002: 'windows Slot #4'
+    2100004: 'windows Slot #2'
+    2100006: 'windows Slot #1'
+    2100008: 'windows Slot #3'
+    2100010: No Name
+    2100012: 'railiings Slot #4'
+    2100014: 'railiings Slot #1'
+    2100016: 'railiings Slot #2'
+    2100018: 'railiings Slot #3'
+    2100020: 'railiings Slot #5'
+    2100022: 'Material #10177 Slot #3'
+    2100024: 'Material #10177 Slot #2'
+    2100026: railiings
+    2100028: 'Material #10177 Slot #4'
+    2100030: 'Material #10177 Slot #1'
+    2100032: 'Material #10177 Slot #5'
+    2300000: brown walls
+    2300002: compound wall 001
+    2300004: compound wall 002
+    2300006: compound wall 02
+    2300008: doors
+    2300010: floor
+    2300012: gate 001
+    2300014: gate 002
+    2300016: grey massing
+    2300018: Line2275
+    2300020: Line2276
+    2300022: Railings
+    2300024: Rectangle14719
+    2300026: wall cw
+    2300028: wall cw001
+    2300030: wall x1
+    2300032: white walls
+    2300034: windows 02
+    2300036: winows 01
+    3300000: brown walls
+    3300002: compound wall 001
+    3300004: compound wall 002
+    3300006: compound wall 02
+    3300008: doors
+    3300010: floor
+    3300012: gate 001
+    3300014: gate 002
+    3300016: grey massing
+    3300018: Line2275
+    3300020: Line2276
+    3300022: Railings
+    3300024: Rectangle14719
+    3300026: wall cw
+    3300028: wall cw001
+    3300030: wall x1
+    3300032: white walls
+    3300034: windows 02
+    3300036: winows 01
+    4300000: windows 02
+    4300002: floor
+    4300004: wall x1
+    4300006: Rectangle14719
+    4300008: gate 001
+    4300010: Line2275
+    4300012: grey massing
+    4300014: doors
+    4300016: Railings
+    4300018: brown walls
+    4300020: winows 01
+    4300022: compound wall 02
+    4300024: wall cw
+    4300026: white walls
+    4300028: compound wall 001
+    4300030: compound wall 002
+    4300032: Line2276
+    4300034: gate 002
+    4300036: wall cw001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
